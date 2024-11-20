@@ -82,7 +82,7 @@ export default function App(){
       
       <h1>Imagination-to-life</h1> <br />
       <p>I derive great satisfaction from transforming imaginative concepts into tangible creations. 
-      I invite you to explore a captivating representation of the planet Mars crafted using Three.js, with the sun shining on it.
+      I invite you to explore a captivating representation of the planet Mars crafted using Three.js, with the sun shining on it. If you visit the website after 6 PM, you will see a moon in the background.
       The interactive feature enables you to effortlessly move the planet around by dragging it. 
       Your engagement in this exploration is encouraged, and I welcome any feedback or insights you may have. Enjoy the immersive experience!
       </p>
@@ -320,7 +320,7 @@ export default function App(){
         
         <h1>Imagination-to-life</h1> <br />
         <p>I derive great satisfaction from transforming imaginative concepts into tangible creations. 
-        I invite you to explore a captivating representation of the planet Mars crafted using Three.js, with the sun shining on it.
+        I invite you to explore a captivating representation of the planet Mars crafted using Three.js, with the sun shining on it. If you visit the website after 6 PM, you will see a moon in the background.
         The interactive feature enables you to effortlessly move the planet around by dragging it. 
         Your engagement in this exploration is encouraged, and I welcome any feedback or insights you may have. Enjoy the immersive experience!
         </p>
