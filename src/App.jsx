@@ -18,7 +18,6 @@ import Moon from "./components/moonmodel"
 export default function App(){
   const currentTime = new Date().toLocaleTimeString('en-US', {timeZone: Intl.DateTimeFormat().timeZone, hour12: false})
   let currentTimeHours = currentTime[0] + currentTime[1]
-  console.log(currentTimeHours)
   if(currentTimeHours<18 && currentTimeHours>6)
   return(
     <> 
