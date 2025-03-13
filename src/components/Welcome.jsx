@@ -1,7 +1,7 @@
 
 const WelcomeMessage = () => {
     return(
-        <div className="welcome-div"><h1 className="welcome-h1">Hello, <br/> my name is Siddharth</h1>
+        <div className="welcome-div"><h1 className="welcome-h1">Hello, <br/> My Name is Siddharth</h1>
         
         <br />
         <p>I am a tech enthusiast who holds an MS in Computer Science and a BE in Computer Engineering. 
